@@ -1,29 +1,34 @@
 {
-    "todo": [
+    "cars": [
       {
-        "task": "inde",
-        "status": false,
-        "id": 3
+        "id": 1,
+        "brand": "Tata",
+        "year": 2019,
+              "type":"Manual",
+        "kms": 10000,
+        "Description": "Tata Altroz with all original documents",
+        "Price": 500000
       },
       {
-        "task": "mocks",
-        "status": false,
-        "id": 4
-      },
+        "id": 2,
+        "brand": "Tata",
+              "type":"AMT",
+        "year": 2017,
+        "kms": 8000,
+        "Description": "Tata Nexon with all original documents",
+        "Price": 800000
+      }
+    ],
+  "wishlisted_cars": [
       {
-        "task": "crud ",
-        "status": false,
-        "id": 5
-      },
-      {
-        "task": "indiiii",
-        "status": false,
-        "id": 6
-      },
-      {
-        "task": "indiiii",
-        "status": false,
-        "id": 7
+        "id": 1,
+        "brand": "Tata",
+        "year": 2019,
+              "type":"Manual",
+        "kms": 10000,
+        "Description": "Tata Altroz with all original documents",
+        "Price": 500000
       }
     ]
   }
+  
